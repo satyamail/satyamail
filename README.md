@@ -4,7 +4,7 @@
 - 🌱 Having hands on some small projects which actually works.
 - 👨‍💻 Python,SQL,Pandas,AWS,Hadoop,Hive,Spark,PySpark.
 - 📫 How to reach me: satyamailx@gmail.com
-- 
+- ☁️ https://www.linkedin.com/in/satyasingh7/
 <!---
 satyamail/satyamail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
