@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Satya
-- 👀 I’m a Bigdata enthusiast, looking for opportunities to transform from a career in "Enterprise Database Engineering. & Support" and seeking a full time role in field of "Data Engineering". Having 3.8 yearsof experience in "Enterprise DBA Engineering & Support" and 1.8 years of experience in Technical Support Engineering. Currently working with HCL in ERS wing as a Lead Engineer.
-- 🌱 I’m currently stretching my arms in learning new data engineering technologies.
-- 🌱 Having hands on some small projects which actually works.
-- 👨‍💻 Python,SQL,Pandas,AWS,Hadoop,Hive,Spark,PySpark.
+- 👀 He holds a Master's degree in Computer Applications and has total 7.8 years of experience in IT industry. He has expertise and experience in working on various data engineering projects and has used cloud based tools like AWS Glue, lambda, ElasticSearch, DynamoDB, S3, Git, Spark, Python Github etc. to build complex and cost effective data pipelines and follows Medallion architecture and other proven methods to achieve consistency and durability of the data. Additionally, he has expertise in administrating Enterprise Databases and Data warehouses.
+- 🌱 Having hands on corporate projects including some POC's.
+- 👨‍💻 Python,SQL, AWS Glue, lambda, ElasticSearch, DynamoDB, Cloud watch, S3, EC2
 - 📫 How to reach me: satyamailx@gmail.com
 - ☁️ https://www.linkedin.com/in/satyasingh7/
 <!---
